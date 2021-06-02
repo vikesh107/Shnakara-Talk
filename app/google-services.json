@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347616617856",
+    "project_id": "shankara-talk-dcf84",
+    "storage_bucket": "shankara-talk-dcf84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347616617856:android:fab692e4c2b3af855b4d65",
+        "android_client_info": {
+          "package_name": "com.example.shankaratalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347616617856-sl959deqhfmsg46473untbpp7a2ogu7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlDYrGxbivdPbjWIFwsbRTyms0BVTu6-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347616617856-sl959deqhfmsg46473untbpp7a2ogu7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
